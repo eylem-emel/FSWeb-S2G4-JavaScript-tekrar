@@ -148,7 +148,6 @@ sayilar.forEach((sayi) => {
   tekrarSayilari[sayi] = (tekrarSayilari[sayi] || 0) + 1;
 });
 
-const tekraredensayilar = [];
 for (const sayi in tekrarSayilari) {
   if (tekrarSayilari[sayi] > 1) {
     tekraredensayilar.push(`${sayi} sayısı ${tekrarSayilari[sayi]} kere tekrar edilmiştir`);
