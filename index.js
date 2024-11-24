@@ -103,6 +103,10 @@ function CemberinAlani(yaricap, pi) {
 /*  (oto test yok) sayilar dizisi içinde kaç adet sayı olduğunu konsola yazdırın */
 
 /*  deneme 1 */
+/*  deneme 2 */
+/*  deneme 3 */
+
+
 
 let ucetambolunenler,
   enkucuk,
